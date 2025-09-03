@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'apps.dogs',
     'apps.auth',
+    'apps.players',
 ]
 
 MIDDLEWARE = [
